@@ -1,15 +1,22 @@
 
 ## Tracking-YOLOv5-ISAM
 
-Can you Follow the Link for YOLOv5 
+Can you Follow the Link for YOLOv5. 
+
 https://github.com/ultralytics
-And for Tracking this Link:
+
+And for Tracking this Link:.
+
 https://github.com/sithu31296/simple-object-tracking
-And for YOLOv5-ISAM
+
+And for YOLOv5-ISAM.
+
 https://github.com/Shahad-Fadhil-Abbas/YOLOv5-ISAM
-for better run webcam can used the CMD if Your enverment not support 
-Enjoy for code 
-Shahad Fadhil Abbas
+
+for better run webcam can used the CMD if Your enverment not support. 
+
+Enjoy for code. 
+Shahad Fadhil Abbas.
 ## Introduction
 
 This is a simple two-stage mulit-object tracking [YOLOv5](https://github.com/ultralytics/yolov5) and [DeepSORT](https://arxiv.org/abs/1703.07402) with zero-short or self-supervised feature extractors. 
