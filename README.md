@@ -1,12 +1,5 @@
-# <div align="center">Simple Object Tracking</div>
 
-<div align="center">
-<p>Multi-Object Tracking with YOLOv5, CLIP, DINO and DeepSORT</p>
-<p>
-<img src="gifs/test_out.gif" width="270"/> <img src="gifs/newyork_out.gif" width="270"/> <img src="gifs/cars_out.gif" width="270"/> 
-</p>
-</div>
-# Tracking-YOLOv5-ISAM
+## Tracking-YOLOv5-ISAM
 
 Can you Follow the Link for YOLOv5 
 https://github.com/ultralytics
